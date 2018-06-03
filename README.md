@@ -4,4 +4,4 @@
 
 #### View the : [Demo](https://medzed.github.io/Headlines_web/)
 #### Screenshot
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot.JPG)
